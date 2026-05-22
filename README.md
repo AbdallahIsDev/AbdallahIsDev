@@ -1,6 +1,6 @@
 # Hi, I'm Abdallah
 
-I'm building Browser Control — a local-first MCP automation runtime that helps AI agents complete browser, terminal, filesystem, screenshot, and debugging workflows.
+I'm building Browser Control — Unified local automation engine for AI agents: browser, terminal, filesystem, CLI, MCP, screenshots, and recovery workflows.
 
 Current focus:
 - AI agent workflow automation
